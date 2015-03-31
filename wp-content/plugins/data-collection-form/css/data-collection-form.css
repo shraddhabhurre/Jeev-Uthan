@@ -1,0 +1,159 @@
+
+.ugf-table {
+    background:#FFFFFF;
+    padding:30px;
+    border-radius:5px;
+    border-style:outset;
+    border:1px dotted #cccccc;
+}
+
+.ugf-table tr td {
+    border-bottom:1px solid #F1F1F1 ;
+}
+
+.ugf-table tr th {
+    text-decoration:none;
+    font-size:14px;
+    border-bottom:1px solid #CCCCCC ;
+}
+
+.ugf-table tr td a {
+    text-decoration:none;
+    font-size:14px;
+}
+.ugf-main {
+    float:right;
+    padding:10px;
+}
+
+.ugf-main-a {
+    text-decoration:none;
+    font-size:14px;
+}
+
+.ugf-table .even {
+    background:#FFFFFF;
+}
+
+.ugf-table .odd {
+    background:#F1F1F1;
+}
+
+.ugf-model-vb {
+    border:1px solid #CCCCCC;
+    position:absolute;
+    top:50px;
+    left:250px;
+    min-height:500px;
+    min-width:800px;
+    background:#FFFFFF;
+    padding:3px;
+    border-radius:0px;
+    border-style:1px solid #000;
+    z-index:999;
+}
+.ugf-model {
+    border:1px solid #CCCCCC;
+    position:absolute;
+    top:150px;
+    left:250px;
+    min-height:500px;
+    min-width:800px;
+    background:#FFFFFF;
+    padding:3px;
+    border-radius:0px;
+    border-style:1px solid #000;
+    z-index:999;
+    
+}
+
+.ugf-model-small {
+    border:1px solid #CCCCCC;
+    position:absolute;
+    top:150px;
+    left:250px;
+    min-height:200px;
+    min-width:200px;
+    background:#FFFFFF;
+    padding:3px;
+    border-radius:0px;
+    border-style:1px solid #000;
+    z-index:999;
+    
+}
+
+.ugf-model-close {
+    float:right;
+    padding:10px;
+    cursor:pointer;
+}
+.ugf-content {
+    margin:20px;
+}
+
+.ugf-header {
+    font-size:18px;
+    text-align:center;
+    border-bottom:1px solid #F1F1F1;
+}
+
+.ugf-body {
+    margin-top:20px;
+    font-size:12px;
+}
+
+.ugf-label {
+    font-size:12px;
+    padding-right:5px;
+    font-weight:bold;
+}
+
+.ugf-input {
+    font-size:12px;
+    height:30px;
+}
+
+.ugf-required {
+  color:#FF0000;
+  padding:5px;
+  
+}
+
+.step2 {
+    border:1px solid  #F3F3F3;
+    padding:20px;
+}
+
+.ufg-form-contorl {
+    padding:10px;
+    
+}
+
+.ufg-control {
+    padding:10px;
+    width:100%;
+    float:left;
+    
+}
+
+.ugf-Inline {
+    float:left;
+}
+.ufg-control-label {
+    
+    padding:10px;
+}
+
+.ufg-control-input {
+    float:left;
+    padding:10px;
+}
+
+.ufg-clear-fix {
+    clear:both;
+}
+
+.ugf-error {
+    color:#FF0000;
+}
+
